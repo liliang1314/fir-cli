@@ -27,9 +27,3 @@ fir.im-cli 可以通过指令查看, 上传, 编译 iOS/Android 应用.
 ## 提交反馈
 
 直接使用 Github 的 [Issue](https://github.com/FIRHQ/fir-cli/issues) 即可.
-
-## 捐赠支持
-
-如果你觉得 fir-cli 对你有所帮助, 欢迎微信打赏支持作者:smile:
-
-![](http://7rf35s.com1.z0.glb.clouddn.com/coffee.png)
